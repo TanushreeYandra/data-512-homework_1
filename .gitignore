@@ -1,0 +1,8 @@
+# ignore ALL .log files
+*.log
+
+# ignore the .ipynb_checkpoints directory
+.ipynb_checkpoints
+
+# ignore the input articles data file
+thank_the_academy.AUG.2023.csv
